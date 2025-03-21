@@ -26,9 +26,8 @@ Sunset Pilgrim is a 2D platformer game created as a practice project in **Godot*
 4. Enjoy the journey!
 
 ## 📝 **Credits**
-Developed as a practice project in Godot, following **[Brackeys' tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)**. 
+Developed as a practice project in Godot, following **[Brackeys' tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)**.  
 Huge thanks to **Brackeys** for the guidance and inspiration!
-
 
 ## 📜 **License**
 This project is for educational purposes and is not intended for commercial use.
