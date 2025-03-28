@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 *.x86_64 filter=lfs diff=lfs merge=lfs -text
->>>>>>> 5b4941c (Initial commit)
+
